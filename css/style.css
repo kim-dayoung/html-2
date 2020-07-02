@@ -1,0 +1,63 @@
+body, h2, div, p {margin: 0; padding: 0; font-family: 'Noto Serif KR' }
+section{margin-bottom: 900px}
+h1{font-family: 'Noto Serif KR'; font-weight: 400;  font-size: 5em; margin-right: 8%; text-align: center; writing-mode: vertical-lr; margin: auto;}
+p{line-height: 1.8;}
+.a{text-align: left; margin: auto; font-family: 'Noto Serif KR'; width: 1200px  }
+.c{margin: auto; text-align: center; width: 1300px; display: flex;}
+.c-1{margin: auto; text-align: center; width: 1100px; display: flex;}
+.d{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.e{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.f{width: 40%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.g{width: 55%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.h{width: 30%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 500px; margin-top: 20%}
+.i{width: 70%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+
+
+.c-1{margin: auto; text-align: center; width: 1100px; display: flex;}
+.d-1{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.e-1{width: 42%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 500px}
+
+.d-2{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.e-2{width: 50%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 500px}
+
+.img{width: 500px;}
+.img2{width: 350px}
+.img3{width: 1000px}
+.width{width: 700px; margin: auto;}
+.h3{padding-top: 80px}
+.h3-1{padding-top: 80px; width: 1100px; text-align: left; margin: auto; line-height: 1.8;}
+.img4{width: 280px; text-align: right; }
+.img5{width: 300px; text-align: left; padding-left: 0px; margin-left: 0px;}
+.gg{width: 25%; text-align: left; margin: auto; line-height: 1.7; margin-bottom: 500px; padding-right: 30%; padding-top: 200px}
+.dd{width: 30%; text-align: left; margin-left: ; line-height: 1.7; margin-bottom: 500px; padding-left: 58%; padding-top: 900px}
+.ff{width: 30%; text-align: left; margin-left: ; line-height: 1.7; margin-bottom: 500px; padding-right: 30%; padding-top: 400px}
+.ii{width: 600px; margin: auto; margin-bottom: 400px}
+
+#center{margin: auto;}
+#b0{margin-bottom: 20px; text-align: center; margin: auto;}
+
+#a{text-align: center; margin: auto;}
+#c{width: 300px;}
+#mg{padding-top: 150px}
+#mg2{margin: auto; padding-bottom: 450px}
+#left{text-align: left; padding-top: 60px; text-align: center;}
+#right{text-align: right;}
+#abs1{position: absolute;  top: 4800px; right: 1000px; width:600px; width: 500px}
+#abs2{position: absolute;  top: 9000px; left: 800px; width:800px;}
+#abs3{position: absolute;  top: 8700px; right: 750px; width:800px;}
+#abs4{position: absolute;  top: 9100px; left: 800px; width:700px;}
+#mgb0{margin-bottom: 0px; padding-bottom:0px;}
+#mgb0-1{margin-bottom: 0px; padding-bottom:0px; padding-left: 0px; margin-left: 0px; text-align: left;}
+#mgb0-2{margin-bottom: 0px; padding-bottom:0px; padding-left: 0px; margin-right: 400px; text-align: right;}
+#m17{height: 609px}
+#img1{width: 500px}
+#img2{width: 500px; margin-right: 0px; padding-right: 0px}
+#img4{width: 450px; margin-bottom: 30px;}
+
+#mgr{margin-right: 0px; padding-right: 0px; width: 500px}
+
+
+
+
+
+
